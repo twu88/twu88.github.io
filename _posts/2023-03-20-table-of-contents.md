@@ -54,6 +54,7 @@ As AI technologies evolve, so too does the threat landscape, with ransomware att
 
 The rise of AI-driven ransomware has led to a marked increase in the number of attacks over the past few years. Below is a barchart that illustrates the increase in ransomware incidents and the impact on critical infrastructure (ICS) sectors.
 
+<script type="text/tikz">
 \begin{tikzpicture}
     \begin{axis}[
         ybar=2pt,
@@ -75,6 +76,15 @@ The rise of AI-driven ransomware has led to a marked increase in the number of a
     \legend{All Ransomware Attacks, ICS Targeted}
     \end{axis}
 \end{tikzpicture}
+</script>
+
+<script type="text/tikz">
+\begin{tikzpicture}
+    \draw[red,fill=black!60!red] (0,0) circle [radius=1.5];
+    \draw[green,fill=black!60!green] (0,0) circle [x radius=1.5cm, y radius=10mm];
+    \draw[blue,fill=black!60!blue] (0,0) circle [x radius=1cm, y radius=5mm, rotate=30];
+\end{tikzpicture}
+</script>
 
 
 
