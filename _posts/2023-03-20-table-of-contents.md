@@ -7,6 +7,7 @@ tags: formatting toc
 categories: sample-posts
 giscus_comments: true
 related_posts: false
+tikzjax: true
 toc:
   beginning: true
 ---
@@ -28,11 +29,11 @@ With the rise of AI and machine learning technologies, however, ransomware attac
 
 ### The AI-enhanced TTPs associated with ransomware include:
 
-    Advanced Targeting: AI can analyze vast amounts of publicly available information (such as social media and company websites) to identify high-value targets. It allows for more tailored attacks against specific industries or businesses.
+Advanced Targeting: AI can analyze vast amounts of publicly available information (such as social media and company websites) to identify high-value targets. It allows for more tailored attacks against specific industries or businesses.
 
-    Evasion Tactics: With machine learning, ransomware can develop techniques to evade detection by security systems, including altering its code dynamically to avoid signature-based detection.
+Evasion Tactics: With machine learning, ransomware can develop techniques to evade detection by security systems, including altering its code dynamically to avoid signature-based detection.
 
-    Exfiltration and Double Extortion: AI can assist in not only encrypting data but also exfiltrating sensitive information. Attackers may use AI to identify the most valuable data to exfiltrate before encrypting the rest, further increasing pressure on victims.
+Exfiltration and Double Extortion: AI can assist in not only encrypting data but also exfiltrating sensitive information. Attackers may use AI to identify the most valuable data to exfiltrate before encrypting the rest, further increasing pressure on victims.
 
 ### The Effect of AI on Industrial Control Systems (ICS)
 
@@ -40,13 +41,13 @@ Industrial Control Systems (ICS) are the backbone of critical infrastructure sec
 
 AI-driven ransomware poses a particularly grave risk to ICS. These systems, often running on legacy technologies with outdated security measures, are increasingly vulnerable to targeted ransomware attacks that use AI to exploit system weaknesses. The potential consequences of a successful ransomware attack on ICS are catastrophic, leading to:
 
-    Disruption of Critical Services: A successful ransomware attack on ICS could disrupt power grids, water supplies, transportation systems, or manufacturing processes. These disruptions could lead to significant economic losses, environmental damage, and even loss of life.
+Disruption of Critical Services: A successful ransomware attack on ICS could disrupt power grids, water supplies, transportation systems, or manufacturing processes. These disruptions could lead to significant economic losses, environmental damage, and even loss of life.
 
-    Increased Attack Surface: The integration of IoT devices and AI into industrial environments has expanded the attack surface. These interconnected systems provide more entry points for ransomware operators to exploit.
+Increased Attack Surface: The integration of IoT devices and AI into industrial environments has expanded the attack surface. These interconnected systems provide more entry points for ransomware operators to exploit.
 
-    Targeting of Legacy Systems: Many ICS still rely on outdated hardware and software, which makes them vulnerable to newer, more advanced AI-powered ransomware. AI tools can scan for these legacy systems and exploit known vulnerabilities, allowing attackers to bypass traditional security controls.
+Targeting of Legacy Systems: Many ICS still rely on outdated hardware and software, which makes them vulnerable to newer, more advanced AI-powered ransomware. AI tools can scan for these legacy systems and exploit known vulnerabilities, allowing attackers to bypass traditional security controls.
 
-    Cyber-Physical Consequences: Ransomware attacks on ICS can cause not only data breaches but also physical damage. For example, malware could cause malfunctions in critical machinery, leading to equipment failure, safety incidents, or even industrial accidents.
+Cyber-Physical Consequences: Ransomware attacks on ICS can cause not only data breaches but also physical damage. For example, malware could cause malfunctions in critical machinery, leading to equipment failure, safety incidents, or even industrial accidents.
 
 ### Statistical Overview: Increasing Threat of AI-Enhanced Ransomware
 
