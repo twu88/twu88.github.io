@@ -1,18 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tina Wu",
+    "label": "Cyber Researcher",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "twu18@yahoo.com",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A BBC born in the UK",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "UK",
+      "region": "Wales"
     },
     "profiles": [
       {
@@ -47,15 +44,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Oxford, Oxford, UK",
+      "location": "Oxford, UK",
+      "url": "https://www.ox.ac.uk/",
+      "area": "Computer Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015",
+      "endDate": "2021",
+      "courses": ["Cyber Security"]
     }
   ],
   "awards": [
