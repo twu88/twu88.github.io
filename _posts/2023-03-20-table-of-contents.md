@@ -9,12 +9,6 @@ toc:
   beginning: true
 ---
 
-
-```yml
-toc:
-  beginning: true
-```
-
 The Impact of AI on the Increase of TTP Ransomware and Its Effects on Industrial Control Systems (ICS)
 
 In recent years, the rise of artificial intelligence (AI) and its application in cybersecurity, including both malicious and defensive capacities, has led to significant changes in the threat landscape. One of the notable developments is the increase in TTP (Tactics, Techniques, and Procedures) ransomware attacks, fueled in part by the capabilities of AI to enhance the sophistication and effectiveness of these cybercrimes. This phenomenon has profound implications for various sectors, particularly in Industrial Control Systems (ICS), where the security of critical infrastructure is at stake.
