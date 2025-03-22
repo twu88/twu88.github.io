@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lead Cyber Researcher at Ofgem
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Earthr</p>
+    <p>Earth</p>
     <p>South Wales, UK</p>
   
 
@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently serving as the Lead Cyber Researcher at Ofgem, where I drive cybersecurity initiatives and research to ensure the security and resilience of critical infrastructure. My professional journey has been rooted in both academic research and practical cybersecurity applications, with a focus on cutting-edge techniques and methodologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Ofgem, I held a position as a Postdoctoral Researcher at the University of Plymouth, where I contributed to the Cyber SHIP project. This initiative involved penetration testing from a research perspective, focusing on maritime systems' vulnerabilities and how they can be addressed to enhance security in the shipping industry.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my PhD in Cyber Security at the University of Oxford in 2021, where I undertook advanced training in cyber security, focusing on innovative approaches to tackling emerging cyber threats. My doctoral research provided deep insights into system vulnerabilities and the methodologies used to assess and mitigate risks in complex systems.
+
+With a strong foundation in both theoretical and applied cybersecurity, I am passionate about advancing the field and driving impactful research and development to address real-world challenges in the ever-evolving digital landscape.
+
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
