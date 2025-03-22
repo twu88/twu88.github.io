@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Earth</p>
-    <p>South Wales, UK</p>
+    <p>South Wales</p>
+	<p>UK</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
