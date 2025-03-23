@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-table-of-contents",
+        },{id: "post-tina-post",
       
-        title: "a post with table of contents",
+        title: "Tina Post",
       
-      description: "an example of a blog post with table of contents",
+      description: "an example of a blog post with diagrams",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/table-of-contents/";
+          window.location.href = "/blog/2021/table-of-contents/";
         
       },
     },{id: "books-the-godfather",
