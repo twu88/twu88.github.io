@@ -12,7 +12,6 @@ profile:
     <p>Earth</p>
     <p>South Wales</p>
   
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently serving as the Lead Cyber Researcher at Ofgem, where I drive cybersecurity initiatives and research to ensure the security and resilience of critical infrastructure. My professional journey has been rooted in both academic research and practical cybersecurity applications, with a focus on cutting-edge techniques and methodologies.
+I am currently a Lead Cyber Researcher at Ofgem, where I drive cyber security initiatives and research to ensure the security and resilience of critical infrastructure. My professional journey has been rooted in both academic research and practical cybersecurity applications, with a focus on cutting-edge techniques and methodologies.
 
 Before joining Ofgem, I held a position as a Postdoctoral Researcher at the University of Plymouth, where I contributed to the Cyber SHIP project. This initiative involved penetration testing from a research perspective, focusing on maritime systems' vulnerabilities and how they can be addressed to enhance security in the shipping industry.
 
