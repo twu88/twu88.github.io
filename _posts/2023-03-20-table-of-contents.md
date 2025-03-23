@@ -47,15 +47,12 @@ As AI technologies evolve, so too does the threat landscape, with ransomware att
 The rise of AI-driven ransomware has led to a marked increase in the number of attacks over the past few years. Below is a barchart that illustrates the increase in ransomware incidents and the impact on critical infrastructure (ICS) sectors.
 
 ```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop HealthCheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
 ```
 
 
