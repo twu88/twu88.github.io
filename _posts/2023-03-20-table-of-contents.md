@@ -45,7 +45,7 @@ As AI technologies evolve, so too does the threat landscape, with ransomware att
 
 The rise of AI-driven ransomware has led to a marked increase in the number of attacks over the past few years. Below is a barchart that illustrates the increase in ransomware incidents and the impact on critical infrastructure (ICS) sectors.
 
-{% mermaid %}
+```mermaid
 barChart
     title Increase of TTPs Used by Threat Actors with AI
     x-axis Threat Actors
@@ -57,7 +57,7 @@ barChart
     "Charming Kitten" : 50
     "DarkSide" : 75
     "APT34" : 65
-{% endmermaid %}
+```
 
 In this chart, we can observe a steady rise in the number of ransomware attacks, with a notable increase from 2023 to 2024. The data highlights the growing sophistication of these threats, with a significant portion of these attacks now targeting ICS environments.
 Conclusion
