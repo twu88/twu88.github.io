@@ -1,23 +1,12 @@
 ---
 layout: post
-title: a post with table of contents
-date: 2023-03-20 11:59:00-0400
-description: an example of a blog post with table of contents
-categories: sample-posts
-toc:
-  beginning: true
-featured: true
+title: Tina Post
+date: 2021-07-04 17:39:00
+tags: formatting diagrams
+description: an example of a blog post with diagrams
 mermaid:
   enabled: true
   zoomable: true
-code_diff: true
-map: true
-chart:
-  chartjs: true
-  echarts: true
-  vega_lite: true
-tikzjax: true
-typograms: true 
 ---
 
 The Impact of AI on the Increase of TTP Ransomware and Its Effects on Industrial Control Systems (ICS)
@@ -29,7 +18,7 @@ Ransomware attacks, which involve the encryption of a victim's data with the dem
 
 With the rise of AI and machine learning technologies, however, ransomware attacks have evolved into more sophisticated and harder-to-detect threats. AI tools allow cybercriminals to automate tasks that were once manual, such as identifying vulnerable systems, crafting personalized phishing emails, and even developing polymorphic ransomware variants that can adapt to avoid detection by traditional security mechanisms. AI-powered ransomware can also optimize its attack strategies in real-time, enabling faster spread and more precise targeting.
 
-### The AI-enhanced TTPs associated with ransomware include:
+### The AI-enhanced TTPs associated with ransomware include:file:///C:/Users/Tina/Downloads/2021-07-04-diagrams.md
 
 Advanced Targeting: AI can analyze vast amounts of publicly available information (such as social media and company websites) to identify high-value targets. It allows for more tailored attacks against specific industries or businesses.
 
