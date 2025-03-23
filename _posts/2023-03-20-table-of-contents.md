@@ -4,7 +4,6 @@ title: a post with table of contents
 date: 2023-03-20 11:59:00-0400
 description: an example of a blog post with table of contents
 categories: sample-posts
-tikzjax: true
 toc:
   beginning: true
 ---
@@ -46,39 +45,17 @@ As AI technologies evolve, so too does the threat landscape, with ransomware att
 
 The rise of AI-driven ransomware has led to a marked increase in the number of attacks over the past few years. Below is a barchart that illustrates the increase in ransomware incidents and the impact on critical infrastructure (ICS) sectors.
 
-<script type="text/tikz">
-\begin{tikzpicture}
-    \begin{axis}[
-        ybar=2pt,
-        width=10cm,
-        height=6cm,
-        ylabel={Number of Attacks},
-        xlabel={Year},
-        symbolic x coords={2020, 2021, 2022, 2023, 2024},
-        xtick=data,
-        ymin=0,
-        enlarge x limits=0.2,
-        bar width=0.5cm,
-        title={Increase in Ransomware Threats Due to AI (2020 - 2024)},
-        nodes near coords,
-        ymin=0
-    ]
-    \addplot coordinates {(2020, 180) (2021, 350) (2022, 550) (2023, 800) (2024, 1200)};
-    \addplot coordinates {(2020, 50) (2021, 100) (2022, 250) (2023, 500) (2024, 700)};
-    \legend{All Ransomware Attacks, ICS Targeted}
-    \end{axis}
-\end{tikzpicture}
-</script>
-
-<script type="text/tikz">
-\begin{tikzpicture}
-    \draw[red,fill=black!60!red] (0,0) circle [radius=1.5];
-    \draw[green,fill=black!60!green] (0,0) circle [x radius=1.5cm, y radius=10mm];
-    \draw[blue,fill=black!60!blue] (0,0) circle [x radius=1cm, y radius=5mm, rotate=30];
-\end{tikzpicture}
-</script>
-
-
+barChart
+    title Increase of TTPs Used by Threat Actors with AI
+    x-axis Threat Actors
+    y-axis Increase in TTPs
+    "APT28" : 80
+    "Lazarus Group" : 70
+    "Conti" : 60
+    "REvil" : 90
+    "Charming Kitten" : 50
+    "DarkSide" : 75
+    "APT34" : 65
 
 In this chart, we can observe a steady rise in the number of ransomware attacks, with a notable increase from 2023 to 2024. The data highlights the growing sophistication of these threats, with a significant portion of these attacks now targeting ICS environments.
 Conclusion
