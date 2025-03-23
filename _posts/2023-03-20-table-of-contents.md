@@ -50,7 +50,7 @@ The rise of AI-driven ransomware has led to a marked increase in the number of a
 xychart-beta
     title "Increase of TTPs Used by Threat Actors with AI"
     x-axis [APT28, Lazarus Group, Conti, REvik, Charming Kitten, Darkside, APT34]
-    y-axis [1,2,3,4,5,6,7]
+    y-axis "TTP Threat Actors" 10 --> 90
     bar [80,70,60,90,50,75,65]
 ```
 
