@@ -60,6 +60,8 @@ barChart
     "APT34" : 65
 ```
 
+
+
 In this chart, we can observe a steady rise in the number of ransomware attacks, with a notable increase from 2023 to 2024. The data highlights the growing sophistication of these threats, with a significant portion of these attacks now targeting ICS environments.
 Conclusion
 
