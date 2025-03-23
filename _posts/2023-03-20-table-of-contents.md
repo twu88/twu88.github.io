@@ -18,7 +18,7 @@ Ransomware attacks, which involve the encryption of a victim's data with the dem
 
 With the rise of AI and machine learning technologies, however, ransomware attacks have evolved into more sophisticated and harder-to-detect threats. AI tools allow cybercriminals to automate tasks that were once manual, such as identifying vulnerable systems, crafting personalized phishing emails, and even developing polymorphic ransomware variants that can adapt to avoid detection by traditional security mechanisms. AI-powered ransomware can also optimize its attack strategies in real-time, enabling faster spread and more precise targeting.
 
-### The AI-enhanced TTPs associated with ransomware include:file:///C:/Users/Tina/Downloads/2021-07-04-diagrams.md
+### The AI-enhanced TTPs associated with ransomware
 
 Advanced Targeting: AI can analyze vast amounts of publicly available information (such as social media and company websites) to identify high-value targets. It allows for more tailored attacks against specific industries or businesses.
 
@@ -48,14 +48,11 @@ The rise of AI-driven ransomware has led to a marked increase in the number of a
 
 ```mermaid
 xychart-beta
-    title "Sales Revenue"
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Revenue (in $)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    title "Increase of TTPs Used by Threat Actors with AI"
+    x-axis [APT28, Lazarus Group, Conti, REvik, Charming Kitten, Darkside, APT34]
+    y-axis [1,2,3,4,5,6,7]
+    bar [80,70,60,90,50,75,65]
 ```
-
-
 
 In this chart, we can observe a steady rise in the number of ransomware attacks, with a notable increase from 2023 to 2024. The data highlights the growing sophistication of these threats, with a significant portion of these attacks now targeting ICS environments.
 Conclusion
