@@ -6,6 +6,18 @@ description: an example of a blog post with table of contents
 categories: sample-posts
 toc:
   beginning: true
+featured: true
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true 
 ---
 
 The Impact of AI on the Increase of TTP Ransomware and Its Effects on Industrial Control Systems (ICS)
@@ -49,7 +61,7 @@ The rise of AI-driven ransomware has led to a marked increase in the number of a
 barChart
     title Increase of TTPs Used by Threat Actors with AI
     x-axis Threat Actors
-    y-axis Increase in TTPs
+    y-axis Increase in TTPsfile:///C:/Users/Tina/Downloads/2018-12-22-distill.md
     "APT28" : 80
     "Lazarus Group" : 70
     "Conti" : 60
