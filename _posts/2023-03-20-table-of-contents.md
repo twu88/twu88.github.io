@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tina Post
-date: 2021-07-04 17:39:00
-tags: formatting diagrams
-description: an example of a blog post with diagrams
+title: Impact of AI on the Increase of TTP Ransomware
+date: 2025-03-24 17:39:00
+tags: AI
+description: 
 mermaid:
   enabled: true
   zoomable: true
