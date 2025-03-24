@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
@@ -21,28 +21,27 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Cyber Security Advisor (SC Cleared)
+      institution: Ofgem
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Reviewed and assessed security submissions from Operational Energy Suppliers (OES) under the RIIO framework, ensuring that
+          submissions met regulatory requirements and aligned with industry best practices for security and resilience.
+        - Authored comprehensive consultation papers for RIIO-funded OT/IT projects, totaling over £200 million, outlining key security
+          and regulatory considerations, and ensuring alignment with industry standards and Ofgem’s strategic objectives.
+        - Led the development and implementation of licence condition updates, ensuring that changes were accurately communicated
+          to stakeholders and effectively integrated into regulatory frameworks to enhance security measures in the energy sector.
+        - Collaborated with internal teams and external stakeholders to align security strategies with evolving industry standards,
+          advising on risk management, compliance, and resilience to safeguard the energy infrastructure from emerging threats.
+        - Contributed to the AI Taskforce, helping draft guidance for the OT sector on the integration and implementation of AI
+          technologies, and led the authoring of a whitepaper on AI use cases, showcasing innovative applications in the energy sector
+          and contributing to academic research on AI’s role in OT
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+      institution: Ofgem
       year: 1933
       description:
         - Description 1.
@@ -61,37 +60,3 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
