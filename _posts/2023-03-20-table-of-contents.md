@@ -3,7 +3,7 @@ layout: post
 title: Impact of AI on the Increase of TTP Ransomware
 date: 2025-03-24 17:39:00
 tags: AI
-description: 
+description: Impact of AI on the Increase of TTP Ransomware  
 mermaid:
   enabled: true
   zoomable: true
